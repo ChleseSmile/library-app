@@ -1,0 +1,3 @@
+cd ~/Documents
+git clone https://github.com/ChleseSmile/library-app.git
+cd library-app
